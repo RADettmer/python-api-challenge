@@ -9,3 +9,5 @@ WeatherPy file includes code to collect over 500 latitude and longitude coordina
 Several graphs are generated from this data frame to compare latitude to temperature, humidity, cloudiness and wind speed. These graphs are saved as separate files.
 
 VacationPy file includes code to narrow down a vacation location given specific conditions using the output_data csv file generated above.  Once specific locations are generated, a new data frame was created to find hotels nearby Google Maps. For locations not having a hotel are removed from the data frame and a heat map is generated for the final locations.
+
+Included are two maps. The heatmap shows all locations generated. The hotelmap shows the hotel loctations determined by the vacation conditions.
