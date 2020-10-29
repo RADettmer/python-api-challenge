@@ -10,4 +10,4 @@ VacationPy file includes code to narrow down a vacation location given specific 
 
 Included are two maps. The heatmap shows all locations generated. The hotelmap shows the hotel loctations determined by the vacation conditions.
 
-This data was generated based on weather conditions on March 15, 2020.
+This data was generated based on weather conditions on March 15, 2020. Reflecting on this project, maybe a new one would possibly be where the lower amount of COVID-19 cases are reported.  Just a thought.
