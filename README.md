@@ -8,6 +8,6 @@ Several graphs are generated from this data frame to compare latitude to tempera
 
 VacationPy file includes code to narrow down a vacation location given specific conditions using the output_data csv file generated above.  Once specific locations are generated, a new data frame was created to find hotels nearby Google Maps. For locations not having a hotel are removed from the data frame and a heat map is generated for the final locations.
 
-Included are two maps. The heatmap shows all locations generated. The hotelmap shows the hotel loctations determined by the vacation conditions.
+Included are two maps in the Images folder. The heatmap shows all locations generated. The hotelmap shows the hotel loctations determined by the vacation conditions.
 
 This data was generated based on weather conditions on March 15, 2020. Reflecting on this project, maybe a new one would possibly be where the lower amount of COVID-19 cases are reported.  Just a thought.
